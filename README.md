@@ -1,5 +1,9 @@
 # Tarefas
 
+<center>
+<img src='./src/img/001.png' border=0 />
+</center>
+
 ```sh
 npm create vitelatest tarefas
 cd tarefas
